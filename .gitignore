@@ -1,7 +1,10 @@
 /target
 **/target/
 /dist
+temp_auto_push.bat
 .packc/
 *.gtpack
 *.cbor
 *.sbom.json
+.gitignore
+branch_structure.json
