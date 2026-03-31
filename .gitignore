@@ -3,8 +3,11 @@
 /dist
 .packc/
 *.gtpack
+temp_auto_push.bat
 *.cbor
 *.sbom.json
 
 # OS
 .DS_Store
+.gitignore
+branch_structure.json
